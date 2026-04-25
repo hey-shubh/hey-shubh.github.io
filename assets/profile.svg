@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1125" viewBox="0 0 900 1125" role="img" aria-labelledby="title desc">
+  <title id="title">Shubham Yadav profile placeholder</title>
+  <desc id="desc">Minimal dark portrait placeholder with initials SY.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#232528"/>
+      <stop offset="1" stop-color="#111214"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="35%" cy="18%" r="70%">
+      <stop offset="0" stop-color="#d6ff6b" stop-opacity=".28"/>
+      <stop offset=".55" stop-color="#d6ff6b" stop-opacity=".05"/>
+      <stop offset="1" stop-color="#d6ff6b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="1125" fill="url(#bg)"/>
+  <rect width="900" height="1125" fill="url(#glow)"/>
+  <circle cx="450" cy="360" r="150" fill="#d6ff6b"/>
+  <path d="M215 930c30-210 154-326 235-326s205 116 235 326" fill="#d6ff6b"/>
+  <text x="450" y="392" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="116" font-weight="800" fill="#111214">SY</text>
+  <text x="450" y="1028" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700" fill="#f3f0ea">Replace with your photo</text>
+</svg>
