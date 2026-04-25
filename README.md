@@ -1,7 +1,3 @@
-# Personal Static Website
-
-A polished static personal website built with plain HTML, CSS, JavaScript, and a small Node.js preview server.
-
 ## Run Locally
 
 ```bash
